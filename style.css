@@ -1,0 +1,28 @@
+.kani{
+    font-size: 25px;
+    width: 100%;
+     box-shadow: 5px 5px 5px grey;
+     margin: 0;
+}
+
+.selvi{
+    font-size: 15px;
+    color: black;
+}
+
+
+#suhanthan{
+    position: fixed;
+    bottom: 0;
+    background-color:darkorange;
+    color: white;
+    text-align: center;
+    width: 100%;
+    line-height: 3;
+}
+
+canvas{
+    box-shadow: 5px 5px 5px grey;
+    border-radius: 20px;
+    border: 5px solid white;
+}
